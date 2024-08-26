@@ -16,3 +16,4 @@ class Tagp extends Model
         return $this->belongsToMany(Post::class);
     }
 }
+?>

@@ -27,13 +27,14 @@ Route::get('/jobs/{id}', function ($id) {
 });
 
 Route::post('/jobs', function () {
-    Job::create([
-        'title' => request('title'),
-        'salary' => request('salary'),
-        'employer_id' => 1,
-    ]);
+    $job = new Job();
+    $job->title = request('title');
+    $job->salary = request('salary');
+    $job->employer_id = 1;
+    
     return redirect('/jobs');
 });
+
 
 
 Route::get('/contact', function () {

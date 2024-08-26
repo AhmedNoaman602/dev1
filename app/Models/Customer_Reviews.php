@@ -7,3 +7,4 @@ class Customer_Reviews extends Model{
     protected $table = 'customer_reviews';
     protected $fillable = ['name' , 'text'];
 }
+?>

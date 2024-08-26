@@ -26,3 +26,4 @@ class JobFactory extends Factory
         ];
     }
 }
+?>

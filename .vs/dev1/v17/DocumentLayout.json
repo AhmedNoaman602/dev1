@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\Components\\layout.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp\\www\\dev1\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp\\www\\dev1\\resources\\views\\Components\\nav-link.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\Components\\nav-link.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -15,16 +19,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\about.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp\\www\\dev1\\routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp\\www\\dev1\\resources\\views\\jobs\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\jobs\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp\\www\\dev1\\resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp\\www\\dev1\\resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp\\www\\dev1\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +52,7 @@
               "RelativeDocumentMoniker": "resources\\views\\Components\\layout.blade.php",
               "ToolTip": "C:\\wamp\\www\\dev1\\resources\\views\\Components\\layout.blade.php",
               "RelativeToolTip": "resources\\views\\Components\\layout.blade.php",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAGsAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-19T16:59:01.995Z",
               "IsPinned": true,
@@ -52,15 +60,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "nav-link.blade.php",
-              "DocumentMoniker": "C:\\wamp\\www\\dev1\\resources\\views\\Components\\nav-link.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\Components\\nav-link.blade.php",
-              "ToolTip": "C:\\wamp\\www\\dev1\\resources\\views\\Components\\nav-link.blade.php",
-              "RelativeToolTip": "resources\\views\\Components\\nav-link.blade.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "DocumentIndex": 4,
+              "Title": "console.php",
+              "DocumentMoniker": "C:\\wamp\\www\\dev1\\routes\\console.php",
+              "RelativeDocumentMoniker": "routes\\console.php",
+              "ToolTip": "C:\\wamp\\www\\dev1\\routes\\console.php",
+              "RelativeToolTip": "routes\\console.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-19T21:12:13.506Z",
+              "WhenOpened": "2024-08-23T13:34:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\wamp\\www\\dev1\\resources\\views\\jobs\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\jobs\\create.blade.php",
+              "ToolTip": "C:\\wamp\\www\\dev1\\resources\\views\\jobs\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\jobs\\create.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-23T13:27:19.146Z",
               "EditorCaption": ""
             },
             {
@@ -70,31 +91,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "nav-link.blade.php",
+              "DocumentMoniker": "C:\\wamp\\www\\dev1\\resources\\views\\Components\\nav-link.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\Components\\nav-link.blade.php",
+              "ToolTip": "C:\\wamp\\www\\dev1\\resources\\views\\Components\\nav-link.blade.php",
+              "RelativeToolTip": "resources\\views\\Components\\nav-link.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T21:12:13.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "about.blade.php",
               "DocumentMoniker": "C:\\wamp\\www\\dev1\\resources\\views\\about.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\about.blade.php",
               "ToolTip": "C:\\wamp\\www\\dev1\\resources\\views\\about.blade.php",
               "RelativeToolTip": "resources\\views\\about.blade.php",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-19T16:54:36.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "web.php",
               "DocumentMoniker": "C:\\wamp\\www\\dev1\\routes\\web.php",
               "RelativeDocumentMoniker": "routes\\web.php",
               "ToolTip": "C:\\wamp\\www\\dev1\\routes\\web.php",
               "RelativeToolTip": "routes\\web.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-19T16:53:08.078Z"
+              "WhenOpened": "2024-07-19T16:53:08.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "contact.blade.php",
               "DocumentMoniker": "C:\\wamp\\www\\dev1\\resources\\views\\contact.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\contact.blade.php",
@@ -106,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "home.blade.php",
               "DocumentMoniker": "C:\\wamp\\www\\dev1\\resources\\views\\home.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\home.blade.php",

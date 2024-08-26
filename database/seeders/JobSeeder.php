@@ -18,3 +18,4 @@ class JobSeeder extends Seeder
 
     }
 }
+?>
